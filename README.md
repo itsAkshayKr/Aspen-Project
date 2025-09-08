@@ -14,7 +14,7 @@
 ![s3](https://github.com/user-attachments/assets/6efb1ed2-3bc9-46f1-9ed4-5a42724b8801)
 ![s4](https://github.com/user-attachments/assets/c160886c-eab6-4394-a444-c31218b83f47)
 
-# Setting Heater properties
+# Setting Input feed and Heater properties
 ![s5](https://github.com/user-attachments/assets/73d336fa-3f77-404f-ba98-6cc26b17012f)
 ![s6](https://github.com/user-attachments/assets/74f327b9-1566-48f4-b2e1-277ed65cfb1c)
 ![s7](https://github.com/user-attachments/assets/32925c26-3a98-4785-b2df-e2af4be20f3f)
@@ -27,11 +27,11 @@
 ![s12](https://github.com/user-attachments/assets/afb26dfe-ff43-4b76-a1c7-753d027226be)
 ![s13](https://github.com/user-attachments/assets/8ea7e5af-2a5f-40d8-ad0d-018cf171fbc1)
 
-# Setting up cooler
+# Setting up cooler properties
 ![s14](https://github.com/user-attachments/assets/e58f62ba-98d4-4ed3-8d3b-1a3fad70c8f3)
 ![s15](https://github.com/user-attachments/assets/8b1e53c4-380b-4a76-b6e0-f1ec6c452d0b)
 
-# Setting up Flash Separator
+# Setting up Flash Separator properties
 ![s16](https://github.com/user-attachments/assets/b3a4468d-04e3-4473-a04c-95d406bf6af1)
 ![s17](https://github.com/user-attachments/assets/2fd9d0e2-c9f3-46ab-bfc3-3fad064f345f)
 ![s18](https://github.com/user-attachments/assets/09e86824-74c9-4c7e-a154-ddd0acf1dfa1)
